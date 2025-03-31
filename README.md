@@ -26,13 +26,28 @@ This one is embedded as an iframe.333
 
 My visualization shows...
 
-## Inagural Addresses
+## Huron Sachem Map
 
 ### Most distinctive words in US presidents' inagural addresses, 1789-2017
 
-This one is an svg file.
+<iframe title="Flourish Map" aria-label="Map Visualization" id="flourish-map-22403330" src="https://public.flourish.studio/visualisation/22403330/embed" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe>  
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r, i = 0; r = e[i]; i++)
+                    if (r.contentWindow === a.source) {
+                        var d = a.data["datawrapper-height"][t] + "px";
+                        r.style.height = d;
+                    }
+        }
+    });
+}();
+</script>
 
-![inagural addresses common words](heatmap.svg)
 
 Here's a bunch of analysis.
 
