@@ -6,7 +6,8 @@ The original dataset contained 14 columns, many of which included unnecessary in
 
 After cleaning the data, I was ready to import it to the web-based platform Flourish to create my visualizations. I chose Flourish because of its clean aesthetic and its compatibility to generate both a chart and a map visualization. Creating the chart visualization was pretty intuitive, but the map visualization required more messing around with to achieve my desired results. One of the biggest challenges was finding a pre-existing geometry shapefile for the Delaware County layer, which I was ultimately able to source from a Flourish template for US counties.
 
-In the end, I successfully created both a chart and an interactive map visualization, which can be viewed below alongside an explanation of the data and its potential limitations.
+In the end, I created a chart and interactive map visualization which can be viewed below alongside an explanation of the data and possible limitations! 
+
 
 ## Top Butterfly Species in Delaware County 
 The chart below displays the top ten most frequently observed butterfly species in Delaware County from March 2020 to March 2025. The data is sourced from the citizen science platform iNaturalist.
