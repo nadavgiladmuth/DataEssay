@@ -2,7 +2,7 @@
 
 A template for publishing Nadav's data essay in GitHub pages 
 
-## Nadav's First viz 33
+## Nadav's First viz 
 33
 This one is embedded as an iframe.333
 
