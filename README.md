@@ -32,26 +32,32 @@ Nevertheless, the visualization is interesting and can be used to compare specie
 ## Bibliography
 
 1. iNaturalist. "Atalopedes huron (Huron Sachem)." iNaturalist. https://www.inaturalist.org/taxa/1455248-Atalopedes-huron .
+
 This source provided information on the Huron Sachem butterfly species, including its geological habitat preferences. It helped me understand the data I obtained from the chart visualization.
 
 
-2. Hist105b. "Data Essay - First Visualization." Hist105b GitHub Pages. https://hist105b.github.io/data-essay/#first-viz .
+3. Hist105b. "Data Essay - First Visualization." Hist105b GitHub Pages. https://hist105b.github.io/data-essay/#first-viz .
+
 I used this source as a template to structure my data essay. It was very helpful in formatting and helped me figure out how to use an iframe to embed my visualizations into my data essay.
 
 
-3. Stack Overflow. "How to Convert a Month Number (i.e. 12) into Month Name in Excel." Stack Overflow, June 13, 2018. https://stackoverflow.com/questions/50838512/how-to-convert-a-month-number-i-e-12-into-month-name-in-excel .
+4. Stack Overflow. "How to Convert a Month Number (i.e. 12) into Month Name in Excel." Stack Overflow, June 13, 2018. https://stackoverflow.com/questions/50838512/how-to-convert-a-month-number-i-e-12-into-month-name-in-excel .
+
 This post on Stack Overflow provided a solution for converting month numbers into month names in Excel. I used this method to clean the dataset by formatting the date column into a more readable text format, which I then used for the labels when you hover over data points in the interactive map visualization.
 
 
-4. iNaturalist. "Butterfly Observations Export (Delaware County, PA, 2020-2025)." iNaturalist Data Export. https://www.inaturalist.org/observations/export?verifiable=&page=1&spam=false&place_id=1132&user_id=&project_id=&taxon_id=47224&swlng=&swlat=&nelng=&nelat=&lat=&lng=&radius=&d1=2020-03-01&d2=2025-03-26&quality_grade=research .
+5. iNaturalist. "Butterfly Observations Export (Delaware County, PA, 2020-2025)." iNaturalist Data Export. https://www.inaturalist.org/observations/export?verifiable=&page=1&spam=false&place_id=1132&user_id=&project_id=&taxon_id=47224&swlng=&swlat=&nelng=&nelat=&lat=&lng=&radius=&d1=2020-03-01&d2=2025-03-26&quality_grade=research .
+
 This is a link to the direct source of the dataset I used for my project. It provides the criteria I used to download an export of butterfly data from Delaware County, PA, over the past five years.
 
 
-5. iNaturalist Forum. "Wrong Location for My Observations on Explore." iNaturalist Community Forum, March 29, 2023.
+6. iNaturalist Forum. "Wrong Location for My Observations on Explore." iNaturalist Community Forum, March 29, 2023.
 https://forum.inaturalist.org/t/wrong-location-for-my-observations-on-explore/32937 .
+
 This forum discussion on iNaturalist allowed me to understand why some observations might appear outside the geographical boundaries of Delaware County. It explained the issues related to masking of coordinates for vulnerable species and potential discrepancies in georeferencing due to projection differences, which helped explain some of my data points.
 
 
-6. Flourish. "Visualization of Butterfly Observations in Delaware County." Flourish Studio.
+7. Flourish. "Visualization of Butterfly Observations in Delaware County." Flourish Studio.
 https://app.flourish.studio/visualisation/22404731/edit .
+
 I used Flourish to create the visualizations for my project. Flourish allowed me to visualize the spatial distribution of butterfly observations in Delaware County, as well as allowing for a chart visualization as well.
