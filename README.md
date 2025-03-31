@@ -11,7 +11,7 @@ According to the chart, the most common butterfly species in Delaware County in 
 
 
 ## Top Species Distribution Map
-This map displays the geographic distribution of the top ten species of butterfly observations across Delaware County. Each point represents a recorded sighting and includes the date that observation was made. This map is interactive and you can click on the species in the legend to turn them on or off!
+This map displays the geographic distribution of the top ten species of butterfly observations across Delaware County. Each point represents a recorded sighting (color-coded based off species) and includes the date that observation was made. This map is interactive and you can click on the species in the legend to turn them on or off!
 <iframe title="Flourish Map" aria-label="Map Visualization" id="flourish-map-22404731" src="https://public.flourish.studio/visualisation/22404731/embed" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe>  
 <script type="text/javascript">
 !function() {
