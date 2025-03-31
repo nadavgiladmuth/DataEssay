@@ -1,6 +1,6 @@
-# DataEssay
+# Nadav DataEssay
 
-A template for publishing your data essay in GitHub pages
+A template for publishing Nadav's data essay in GitHub pages
 
 ## Nadav's First viz
 
